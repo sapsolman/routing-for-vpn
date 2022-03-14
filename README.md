@@ -1,2 +1,2 @@
 # routing-for-vpn
-Changing routing table
+This PowerShell deletes and recreate your Windows routing table.
