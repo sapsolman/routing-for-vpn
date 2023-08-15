@@ -1,4 +1,6 @@
 # routing-for-vpn
+
+### modify-vpn-routes.ps1 ###
 This PowerShell script cleans up your Windows routing table and re-create it again as it should.
 
 Preparation (to do it once):
@@ -17,3 +19,6 @@ Changing routing:
 3. Make sure your Internet connection and Internal resources are available;
 
 Every time you re-establish a VPN connection, you need to repeat steps 2-3 from the "Changing routing" section.
+
+### vpn_clear.bat ###
+Just try it.
